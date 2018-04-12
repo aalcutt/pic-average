@@ -1,0 +1,16 @@
+{
+  "name": "pic-average",
+  "version": "0.0.1",
+  "description": "averages pixels from multiple images into a new pixel array",
+  "main": "app.js",
+  "dependencies": {
+    "get-pixels": "^3.3.0",
+    "zeros": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
